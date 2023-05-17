@@ -18,7 +18,7 @@ public:
         }
         while(!st.empty())
         {
-        s.erase(st.top(),1);
+      //  s.erase(st.top(),1);
         st.pop();
         amd++;
 
